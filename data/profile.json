@@ -1,7 +1,7 @@
 {
   "name": "Anna Caroline F. Lima",
   "photo": "https://avatars.githubusercontent.com/u/105318278?s=400&u=85863729a1d0608200416b02c3afe5ecad990c79&v=4",
-  "job": "Análise e Desenvolvimento de Sistemas",
+  "job": "Backend/Fullstack Developer",
   "location": "João Pessoa - PB",
   "phone": "(83) 99831-9529",
   "email": "annacarolinexa@gmail.com",
@@ -20,10 +20,6 @@
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/python.png"
       },
       {
-        "name": "CSS",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/css.png"
-      },
-      {
         "name": "HTML",
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/html.png"
       },
@@ -34,7 +30,6 @@
     ],
     "softSkills": [
       "Empatia",
-      "Autodidata",
       "Trabalho em equipe",
       "Determinação",
       "Organização"
@@ -59,19 +54,19 @@
   ],
   "professionalExperience": [
     {
-      "name": "Arquiteto de software / S3 BANK",
-      "period": "2022 - até o momento",
-      "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
+      "name": "Bacharelado em Engenharia Química - UFPB",
+      "period": "2012 - 2017",
+      "description": "Foi um experiência de inúmeros aprendizados onde me desafiei e expandi meus limites."
     },
     {
-      "name": "Software Engineering Lead / DIO",
-      "period": "2021 - 2022",
-      "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
+      "name": "Mestrado acadêmico em Engenharia Química - UFPB",
+      "period": "2018-2020",
+      "description": "Pude aprofundar meus conhecimentos e ampliar os horizontes. Aperfeiçoei minha capacidade analítica e algumas softskills, como trabalho em equipe e autonomia de aprendizado."
     },
     {
-      "name": "CEO / Brain Machine",
-      "period": "2016 - 2021",
-      "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
+      "name": "Tecnólogo em Análise e Desenvolvimento de Sistemas - Unifatecie",
+      "period": "2022 - até agora",
+      "description": "Faz parte da construção de uma base sólida para um melhor desenvolvimento da profissão que escolhi para a vida! Não me imagino mais distante da área de TI."
     }
   ]
 }
